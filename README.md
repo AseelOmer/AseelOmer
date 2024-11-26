@@ -1,19 +1,31 @@
 # Aseel Omer
 
-📧 Email: aseelomer@example.com
+ Email: aseelomer@example.com
 
-I'm curious about how artificial intelligence can improve consumer experiences and behavior. My interests span:
-- 🌟 Mental health apps
-- 🖌️ Learning animation 
-- 🛠️ Combining creativity with tech
----
-Feel free to reach out or explore my work!
+ **Graduate of Business Administration** from Future University, Sudan  
+ **Research Enthusiast** | Passionate about Artificial Intelligence & Consumer Behavior  
 
-## Open Education
-### AI in Consumer Behavior
-My research focuses on how artificial intelligence can enhance personalized shopping, fraud detection, and safety.
-## Current Projects
-- 🌱 "Well Heard" – A mental health website connecting users with therapists.
-- 🛠️ Animation for a bakery brand.
 ---
-Let’s build something impactful together!
+
+##  About Me  
+-  Currently working on **'The Impact of AI on Consumer Behavior'** as my research topic.  
+-  Skilled in **quantitative research methods** and using tools like SPSS for data analysis.  
+-  Always curious about **AI applications**, **personalized experiences**, and how technology shapes our future.  
+-  Enjoy simplifying complex concepts and sharing knowledge through my work.  
+
+---
+
+##  Projects & Interests  
+- **MIT Emerging Talent Program**  
+  -  Exploring concepts step by step to build a solid foundation.  
+- **'Well Heard' Website**  
+  - Connecting people with mental health resources through an intuitive app design.  
+- **Animation Journey**  
+  -  Learning animation with Illustrator tools to create fun brand stories.  
+
+---
+
+##  Goals  
+-  Master the MIT Emerging Talent Program with consistent learning.  
+-  Build projects that blend AI, business, and creativity into meaningful innovations.
+
