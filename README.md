@@ -9,8 +9,8 @@ I'm curious about how artificial intelligence can improve consumer experiences a
 ---
 Feel free to reach out or explore my work!
 
-# Open Education
-## AI in Consumer Behavior
+## Open Education
+### AI in Consumer Behavior
 My research focuses on how artificial intelligence can enhance personalized shopping, fraud detection, and safety.
 ## Current Projects
 - 🌱 "Well Heard" – A mental health website connecting users with therapists.
