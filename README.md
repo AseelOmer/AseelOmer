@@ -1,6 +1,6 @@
 # Aseel Omer
 
- Email: aseelomer@example.com
+ Email: aseelomerbassan@gmail.com
 
  **Graduate of Business Administration** from Future University, Sudan  
  **Research Enthusiast** | Passionate about Artificial Intelligence & Consumer Behavior  
