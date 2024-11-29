@@ -37,7 +37,7 @@ Here’s what makes me tick:
 🔹 Leveling up my coding skills step by step.  
 🔹 Tackling challenges and building a solid foundation in software development.  
 
-### 💬 **'Well Heard' App**  
+### 💬 **'Well Heard' Website*  
 🔹 *Bridging Mental Health & Technology* — an intuitive platform connecting users with therapists.  
 🔹 Focused on creating an easy-to-use, impactful website for mental health resources.  
 
