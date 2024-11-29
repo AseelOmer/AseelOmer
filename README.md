@@ -19,21 +19,15 @@ Here’s what makes me tick:
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-
-### **Languages & Data Analysis**  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![SPSS](https://img.shields.io/badge/SPSS-05386B?style=for-the-badge&logoColor=white)  
-
 ### **Design & Creative Tools**  
 - ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
 ### **Web Development**  
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### **Collaboration & Productivity**  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-- ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
+
 
 ---
 
