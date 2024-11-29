@@ -1,8 +1,11 @@
 # Aseel Omer  
 
 📧 Email: [aseelomerbassan@gmail.com](https://mail.google.com)
+
 🎓 Business Administration Graduate from Future University, Sudan  
+
 💼 Research Enthusiast | Focused on Artificial Intelligence & Consumer Behavior
+
 📍 Based in Egypt, exploring the intersection of technology and business  
 
 ---
