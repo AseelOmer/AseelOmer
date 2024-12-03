@@ -20,7 +20,6 @@ I’m a tech-savvy researcher exploring how **AI** transforms **consumer behavio
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---  
-
 ## 🌟 **Featured Projects**  
 - **MIT Emerging Talent Program:** Building strong software development skills.  
 - **'Well Heard' Platform:** Connecting users with mental health resources.  
@@ -30,3 +29,4 @@ I’m a tech-savvy researcher exploring how **AI** transforms **consumer behavio
 
 📧 **Email:** [aseelomerbassan@gmail.com](mailto:aseelomerbassan@gmail.com)  
 🌐 **GitHub:** [Aseel Omer](https://github.com/aseelomer)  
+ 
