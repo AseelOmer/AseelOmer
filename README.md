@@ -18,5 +18,5 @@ Business Administration graduate, blending my expertise in business with my love
 ---
 
 📧 **Email:** [aseelomerbassan@gmail.com](mailto:aseelomerbassan@gmail.com)  
-🌐 **GitHub:** [Aseel Omer](<https://github.com/aseelomer>
+🌐 **GitHub:** [Aseel Omer](<https://github.com/aseelomer>)
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
