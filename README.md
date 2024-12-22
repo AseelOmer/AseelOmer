@@ -1,6 +1,6 @@
 ![Welcome Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFib3Fjc282ajF6cHRpMzU5ZnhmMGUxbzZoaTZ3cXgxeDNubmlkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aXVM5862E2XRXq/giphy.gif)
 
-# <span class="wave-hand">👋</span> Hey, I’m Aseel Omer
+# <span class="wave-hand">👋</span> Hey, I'm Aseel Omer
 
 Business Administration graduate, blending my expertise in business with my love for AI to create innovative solutions. As an AI enthusiast and creative visionary. I am driven by a deep curiosity about how artificial intelligence is shaping consumer behavior and revolutionizing industries.
 
@@ -21,5 +21,5 @@ Business Administration graduate, blending my expertise in business with my love
 ---
 
 📧 **Email:** [aseelomerbassan@gmail.com](mailto:aseelomerbassan@gmail.com)  
-🌐 **GitHub:** [Aseel Omer](<https://github.com/aseelomer>)  
+🌐 **GitHub:** [Aseel Omer](<https://github.com/aseelomer>)
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
