@@ -31,4 +31,4 @@ it offers.
 
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
-![Closing Animation](<https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyYXVzejJpeWJ0YWIycGRocGRhdWx2eTVhM2E4ZnY4OTQ4aXk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GG2UAv9uRblny/g>
+![Closing Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyYXVzejJpeWJ0YWIycGRocGRhdWx2eTVhM2E4ZnY4OTQ4aXk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GG2UAv9uRblny/giphy.gif)
