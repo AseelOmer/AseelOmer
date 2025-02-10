@@ -1,4 +1,3 @@
-![Welcome Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFib3Fjc282ajF6cHRpMzU5ZnhmMGUxbzZoaTZ3cXgxeDNubmlkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aXVM5862E2XRXq/giphy.gif)
 
 # 👋 Hey, I'm Aseel Omer
 
