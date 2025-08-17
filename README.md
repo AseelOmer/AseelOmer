@@ -1,5 +1,4 @@
-
-# 👋 Hey, I'm Aseel Omer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&pause=1000&color=B00936&width=435&lines=Aseel+Omer+)](https://git.io/typing-svg)
 
 <!-- Line intentionally exceeds 80 characters to maintain the flow of the paragraph. -->
 Business Administration graduate with **First Class Honors**, blending my expertise in business
@@ -10,24 +9,11 @@ it offers.
 
 ---
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-CDSP-group-21-repo)](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-26)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-26)
 ---
 
-## 🌟 Featured Projects
+[aseelomerbassan@gmail.com](mailto:aseelomerbassan@gmail.com)  
+[Aseel Omer LinkedIn](https://www.linkedin.com/in/aseel-omer-61115826b/)
 
-- **MIT Emerging Talent Program**: Building strong software development skills.
-- **'Well Heard' Platform**: Connecting users with mental health resources.  
-- **Animation Journey**: Creating dynamic visuals for storytelling.
-
----
-
-📧 **Email**: [aseelomerbassan@gmail.com](mailto:aseelomerbassan@gmail.com)  
-🌐 **GitHub**: [Aseel Omer](https://github.com/aseelomer)
-
-> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-
-![Closing Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyYXVzejJpeWJ0YWIycGRocGRhdWx2eTVhM2E4ZnY4OTQ4aXk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GG2UAv9uRblny/giphy.gif)
+![Closing animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR1eWUwcHNrbTdhOTEyZzdsMXpkMnc4OTR3MGJ3dTZjMTlpb3MxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5E6VIkBAGujjfT0zz/giphy.gif)
