@@ -3,21 +3,22 @@
 <!-- Line intentionally exceeds 80 characters to maintain the flow of the paragraph. -->
 
 Business Administration graduate with **First Class Honors**
-Creating innovative solutions by blending
+
+- Creating innovative solutions by blending
 my expertise in business with a love for AI.
 
 >In a universe of data, I am a cartographer, charting a course toward innovation
 
 ##### Focus Areas
 
-* Building solutions at the intersection of business and AI.
-* Exploring how AI is shaping consumer behavior and revolutionizing industries.
-* Passion for space and its limitless possibilities.
+- Building solutions at the intersection of business and AI.
   
-> `NLP` `Machine Learning` `Cybersecurity`
+- Exploring how AI is shaping consumer behavior and revolutionizing industries.
+
+- Passion for space and its limitless possibilities.
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-CDSP-group-21-repo)](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo)
 
-> `Data Analysis` `Python` `Collaboration`
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-26)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-26)
 
 ---
